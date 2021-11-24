@@ -25,3 +25,4 @@ npm i
 npm run start
 ```
 
+[alt text](https://res.cloudinary.com/du4mbzbao/image/upload/v1637746550/Blogging_website_dm2dt7.png)
